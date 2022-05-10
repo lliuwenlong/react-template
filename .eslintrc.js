@@ -238,7 +238,7 @@ module.exports = {
             allowAnonymousFunction: false,
             allowCallExpression: true,
             allowLiteral: false,
-            allowObject: false
+            allowObject: true
         }],
         'react/jsx-filename-extension': [1, {
             extensions: ['.ts', '.tsx']
