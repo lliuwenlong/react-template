@@ -1,0 +1,10 @@
+@import 'normalize.css';
+@import './common/styles/default.scss';
+@import './common/assets/iconfont/iconfont.css';
+
+html,
+body,
+#root {
+    width: 100vw;
+    height: 100vh;
+}

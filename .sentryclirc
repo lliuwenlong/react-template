@@ -1,0 +1,6 @@
+[defaults]
+url=https://sentry.tipaipai.com/
+org=sentry
+
+[auth]
+token=52ed5745dea741cd9100fc108683db064a8a793ce15347e199bff5b2c9220cdc

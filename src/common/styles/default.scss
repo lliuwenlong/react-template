@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    -webkit-user-select: none; /* webkit浏览器 */
+    -khtml-user-select: none; /* 早期浏览器 */
+    -moz-user-select: none; /* 火狐 */
+    -ms-user-select: none; /* IE10 */
+    user-select: none;
+    -webkit-touch-callout: none; /* 系统默认菜单被禁用 */
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background: #f8f8f8 !important;
+}
+
+strong {
+    font-weight: normal;
+}
+
+i {
+    font-style: normal;
+}
+
+img {
+    -webkit-touch-callout: none;
+}
+
+input {
+    -webkit-user-select: auto; /* webkit浏览器 */
+}
+
+textarea {
+    -webkit-user-select: auto; /* webkit浏览器 */
+}
+
+#app {
+    width: 100%;
+    height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 500;
+}
+
+.button__text {
+    padding: 0;
+    border: none;
+    background: transparent;
+    outline: none;
+}
+
+.am-navbar {
+    .am-navbar-left {
+        padding-left: 20px;
+    }
+
+    .am-navbar-right {
+        margin-right: 20px;
+    }
+}
