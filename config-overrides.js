@@ -1,7 +1,6 @@
 /**
  * @file config-overrides.js
- * @author liuwenlong2@tal.com
- * @date 20210406
+ * @author liuwenlong
 */
 
 /* eslint-disable */
